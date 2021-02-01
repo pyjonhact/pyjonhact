@@ -7,13 +7,11 @@ Now i'm studying Softawre Engineering and Back-end Web Development with JavaScri
 
 ## Favourite programming languages:
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pyjonhact&theme=gruvbox)]()
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pyjonhact)]()
 
 ## Repos that i'm working in:
 
 ### PySpikon
-
-[![PySpikon](https://github-readme-stats.vercel.app/api/pin/?username=pyjonhact&repo=pyspikon&theme=gruvbox)](https://github.com/pyjonhact/pyspikon)
 
 #### What is it?
 
@@ -23,9 +21,6 @@ It all started when i wanted to implement ML functions into a .llsp block file. 
 
 ### MSTK
 
-[![mstk](https://github-readme-stats.vercel.app/api/pin/?username=pyjonhact&repo=mindstormssoftwaretoolkit&theme=gruvbox)](https://github.com/pyjonhact/mindstormssoftwaretoolkit)
-
 #### What is it?
 
 MSTK is an educative open-project that works with LEGO Robotics. It started wuth PySpikon and i now am developing an IDE.
-
